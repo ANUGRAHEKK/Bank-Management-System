@@ -6,8 +6,6 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-import static com.sun.org.apache.xerces.internal.util.DOMUtil.setVisible;
-
 public class main_Class extends JFrame implements ActionListener {
     JButton b1,b2,b3,b4,b5,b6,b7;
     String pin;
